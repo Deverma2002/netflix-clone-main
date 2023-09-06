@@ -57,6 +57,6 @@ This project uses the following technologies:
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: gupta.74@iitj.ac.in
-- GitHub: [Vidhi Gupta](https://github.com/vidhihihihihi)
-- Twitter: [Vidhi Gupta](https://twitter.com/vidhihihihihihi)
+- **Email:** [ee200002027@iiti.ac.in](mailto:ee200002027@iiti.ac.in)
+- **LinkedIn:** [Dev Verma](https://www.linkedin.com/in/dev-verma-6a290924b/)
+- **GitHub:** [@Deverma2002](https://github.com/Deverma2002)
